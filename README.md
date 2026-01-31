@@ -3,5 +3,5 @@ Turing Patterns on complex Networks  0.3 pt
 - the code and relative outputs are inside the TuringPattern folder
 
 Practical project:
-Reconstruction of public transport networks in cities around the world  1.2pt
-- the code and relative outputs are inside the world folder, for each city a file containing nodes and a file containg edges are created 
+Public transport in large cities worldwide  1.2pt
+- the code and relative outputs are inside the world folder, for each city a file containing nodes (nodeID,nodeLabel,latitude,longitude,mode,year) and a file containg edges (nodeID_from,nodeID_to,mode,line,year) are created, a final analysis shows the relation between N number of nodes and E number of edges.
