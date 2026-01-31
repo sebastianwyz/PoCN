@@ -1,4 +1,4 @@
-Theoretical project-
+Theoretical project:
 Turing Patterns on complex Networks  0.3 pt
 - the code and relative outputs are inside the TuringPattern folder
 
